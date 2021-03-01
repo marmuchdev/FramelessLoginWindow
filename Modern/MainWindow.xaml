@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="380"
         AllowsTransparency="True" Background="Transparent"
         WindowStyle="None" ResizeMode="NoResize" MouseDown="Window_MouseDown"
+        Icon="X:\dev\UI\Modern\Modern\Resources\icons\icons.ico"
         >
     <Grid>
         <Grid>
